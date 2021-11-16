@@ -1,0 +1,20 @@
+h2 {
+    color:deeppink
+}
+
+h3 {
+    color:darkorchid
+}
+
+h4 {
+    color:orange
+}
+li {
+    list-style-position: inside;
+    text-transform: capitalize;
+    
+}
+img {
+    width: 200px;
+}
+
